@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "Launch llava.ipynb",
+      "program": "${workspaceFolder}/llava.ipynb"
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "Launch manga_story.ipynb",
+      "program": "${workspaceFolder}/manga_story.ipynb"
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "Launch test.ipynb",
+      "program": "${workspaceFolder}/test.ipynb"
+    }
+  ]
+}
